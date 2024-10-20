@@ -1,8 +1,1 @@
-dfxxdh
-fskyht
-frt
-yh
-d
-tdtu
-t
-t
+This is a python project, of a simple game name stone  paper scissor. you have to choose your choice(stone, paper or scissor) and another random choice is from  computer and after both the choices the result wwill be declared that who is the winner...!!!!!
